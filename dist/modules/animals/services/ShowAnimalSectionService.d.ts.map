@@ -1,0 +1,1 @@
+{"version":3,"file":"ShowAnimalSectionService.d.ts","sourceRoot":"","sources":["../../../../src/modules/animals/services/ShowAnimalSectionService.ts"],"names":[],"mappings":"AAEA,OAAO,OAAO,MAAM,6BAA6B,CAAC;AAElD,UAAU,QAAQ;IACd,OAAO,EAAE,MAAM,CAAC;CACnB;AAED,MAAM,CAAC,OAAO,OAAO,mBAAmB;IACvB,OAAO,CAAC,EAAC,OAAO,EAAC,EAAE,QAAQ,GAAG,OAAO,CAAC,OAAO,CAAC;CAW9D"}

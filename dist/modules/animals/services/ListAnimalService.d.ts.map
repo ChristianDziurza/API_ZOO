@@ -1,0 +1,1 @@
+{"version":3,"file":"ListAnimalService.d.ts","sourceRoot":"","sources":["../../../../src/modules/animals/services/ListAnimalService.ts"],"names":[],"mappings":"AAEA,OAAO,OAAO,MAAM,6BAA6B,CAAC;AAGlD,MAAM,CAAC,OAAO,OAAO,mBAAmB;IACvB,OAAO,IAAI,OAAO,CAAC,OAAO,EAAE,CAAC;CAK7C"}
